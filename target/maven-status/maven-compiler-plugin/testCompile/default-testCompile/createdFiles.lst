@@ -1,0 +1,8 @@
+Automacao.class
+navegador\SeleniumDriver.class
+passos\loja\Login.class
+paginas\loja\PaginaConfirmacaoCadastroCliente.class
+robo\Robo.class
+paginas\loja\PaginaCadastroCliente.class
+paginas\loja\PaginaLogin.class
+passos\loja\Clientes.class
